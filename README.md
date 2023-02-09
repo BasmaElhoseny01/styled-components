@@ -1,5 +1,5 @@
 # <img align= center width=50px src="https://images.velog.io/images/vi2920va/post/9b15f05e-6a45-4490-9003-2250397ecf58/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png"> Styled Components
- Learning Styled Components Notes
+Learning Styled Components Notes
  
  
 ## <img align= center width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"> Packages
